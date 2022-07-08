@@ -8,6 +8,8 @@ phases:
   - name: alumni
 stats: false 
 contact: brigade@beta.gouv.fr
+budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=1230&date=2022-07-08&startup=undefined&startupId=aides.jeunes
+channel_url: https://mattermost.incubateur.net/undefined/channels/c8fgej04w
 ---
 
 ## Le contexte
