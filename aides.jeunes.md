@@ -8,6 +8,8 @@ phases:
   - name: alumni
 stats: false 
 contact: brigade@beta.gouv.fr
+budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=300&date=2022-07-09&startup=undefined&startupId=aides.jeunes
+channel_url: https://clavardage.codeursenliberte.fr/societaires/channels/startup-test
 ---
 
 ## Le contexte
