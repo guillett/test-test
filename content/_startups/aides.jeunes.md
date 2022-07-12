@@ -8,6 +8,7 @@ phases:
   - name: alumni
 stats: false 
 contact: brigade@beta.gouv.fr
+budget_url: https://beta-gouv-fr-budget.netlify.app/?budget=103&date=2022-07-12&start=2021-03-15&startup=Aides+Jeunes&startupId=aides.jeunes
 ---
 
 ## Le contexte
